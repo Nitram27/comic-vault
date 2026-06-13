@@ -18,9 +18,7 @@
         width: 100%;
         overflow-x: hidden;
       }
-      body {
-        -webkit-font-smoothing: antialiased;
-      }
+      body { -webkit-font-smoothing: antialiased; }
     </style>
   </head>
   <body>
